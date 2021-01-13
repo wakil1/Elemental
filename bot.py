@@ -1,4 +1,10 @@
 # bot.py
+#heres the project my team and I have created, I was the team leader where I directed and ordered who and what my group partners should be doing. In this project I contributed in 
+#creaing the class CustomClient, the commands for remove, hint,and suggest under the on message function. 
+
+
+
+
 import os, csv, json
 import random
 
